@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 🏆 Solved **500+ DSA problems** on Codeforces, LeetCode, and GFG  
-- 🏅 **Competitive Programming:** Codeforces Pupil (Max Rating: 1205), LeetCode Max Rating: 1489  
+- 🏆 Solved **900+ DSA problems** on Codeforces, LeetCode, and GFG  
+- 🏅 **Competitive Programming:** Codeforces Pupil (Max Rating: 1205), LeetCode Max Rating: 1690  
 - 🌱 **Currently learning:** DSA and OOPS concept
 - 🎯 Passionate about building scalable **real-time applications** 
 
