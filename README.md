@@ -24,10 +24,10 @@
 - 🏆 Solved **1000+ DSA problems** across Codeforces, LeetCode, and GeeksforGeeks  
 - 🏅 **Competitive Programming**
   - Codeforces **Pupil** (Max Rating: **1205**)  
-  - LeetCode **Knight** (Max Rating: **1883**) 
+  - LeetCode **Knight** (Max Rating: **1883**)  
 - 💻 Strong interest in **Full-Stack Development (MERN)**  
 - 🚀 Love building **real-time applications and scalable backend systems**  
-- 🌱 Currently strengthening **Learning Containerization , Docker and Data Structures, Algorithms, and OOP concepts**
+- 🌱 Currently learning **Containerization (Docker)** and strengthening **DSA & OOP concepts**
 
 ---
 
@@ -69,7 +69,7 @@
 - Integrated **Cloudinary for image storage** and **Multer for uploads**
 - Efficient state management using **Redux Toolkit**
 
-👉 Repo:  
+👉 Repo  
 https://github.com/RaviKumarYadav15/GupsApp
 
 ---
@@ -82,7 +82,7 @@ https://github.com/RaviKumarYadav15/GupsApp
 - Built **secure REST APIs with JWT authentication**
 - Designed responsive UI using **React + Vite**
 
-👉 Repo:  
+👉 Repo  
 https://github.com/RaviKumarYadav15/food_delivery_app
 
 ---
@@ -99,9 +99,11 @@ https://github.com/RaviKumarYadav15/food_delivery_app
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Competitive Programming Profiles
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviKumarYadav15&theme=react-dark)
+[![Codeforces](https://img.shields.io/badge/Codeforces-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ravikumaryadav)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ravi_kr_yadav/)
 
 ---
 
@@ -111,9 +113,7 @@ https://github.com/RaviKumarYadav15/food_delivery_app
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviKumarYadav15)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ravikumaryadav)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ravi_kr_yadav/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumaryaadav1511@gmail.com)
 
 ---
 
