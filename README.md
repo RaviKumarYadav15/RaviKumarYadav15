@@ -24,7 +24,7 @@
 - 🏆 Solved **1000+ DSA problems** across Codeforces, LeetCode, and GeeksforGeeks  
 - 🏅 **Competitive Programming**
   - Codeforces **Pupil** (Max Rating: **1205**)  
-  - LeetCode **Knight** (Max Rating: **1883**)  
+  - LeetCode **Knight** (Max Rating: **2013**)  
 - 💻 Strong interest in **Full-Stack Development (MERN)**  
 - 🚀 Love building **real-time applications and scalable backend systems**  
 - 🌱 Currently learning **Containerization (Docker)** and strengthening **DSA & OOP concepts**
